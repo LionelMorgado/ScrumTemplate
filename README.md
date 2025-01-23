@@ -1,2 +1,2 @@
 # ScrumTemplate
-Template to implement agile scrum in projects
+Template to implement scrum project management
